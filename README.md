@@ -8,8 +8,7 @@ fedorenkobmx
 vorobiova2005
 OleksandrSahun
 github_OleksiiIshchuk VollodinGleb
-IdrisFalcor 
-main
+IdrisFalcor
 Aksaly
 yaroslav-na
 Arithdd
@@ -18,4 +17,4 @@ p41n13
 belanv
 etermalslavee
 danchikson
-main
+iluaboltov
